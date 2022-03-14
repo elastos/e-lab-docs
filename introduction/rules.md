@@ -12,7 +12,7 @@
 
 **c)** There is a maximum of **10,000 ELA** allowed per proposal to be granted.
 
-**d)** There is a maximum 1 winner per month based on **Voting Score** and the minimum score to be eligible be funded is **100** (for example 100 members Upvote and nobody Downvote)
+**d)** There is a maximum 1 winner per month based on **Voting Score** and the minimum score to be eligible for funding is **100** (for example 100 members Upvote and nobody Downvote)
 
 **e)** The project can advertise their proposal on social networks and in dedicated [❤ Community / #🥼┃e-lab](https://discord.gg/pnwm6equkt) channel on Discord to get community votes
 
