@@ -7,7 +7,7 @@ Users who activated their account are able to create e-lab proposal and must fol
      1. Project Initiation Payment with amount
      2. Project Completion Payment with amount
 2. Create new proposal on [E-Lab / My proposals](https://e-lab.io/proposals/my-proposals) page\
-   ![](.gitbook/assets/image.png)
+   ![](.gitbook/assets/NewProposal.png)
 3. Send new message in [🌐 Projects / 𝐄┃e-lab](https://discord.gg/pnwm6equkt) channel on Official Elastos server about your new proposal and mention **@Guardians** role
 4. Guardians review **E-Lab proposal** and **CR suggestion**
 5. Guardians will:
