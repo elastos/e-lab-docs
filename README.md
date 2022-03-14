@@ -12,7 +12,7 @@ coverY: 0
 Visit proposal
 {% endembed %}
 
-The main purpose of the application is to **fund development** of promising projects built on Elastos infrastructure by **gaining community support**.
+The main goal of E-Lab is to **fund development** of promising projects built on Elastos infrastructure by **gaining community support**.
 
 {% embed url="https://e-lab.io" %}
 E-Lab.io - Welcome page
