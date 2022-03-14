@@ -12,8 +12,8 @@
 
 **c)** There is a maximum of 10,000 ELA allowed per proposal to be granted.
 
-**d)** There is a maximum 1 winners per month based on Voting Score (can be altered by guardians)
+**d)** There is a maximum 1 winners per month based on **Voting Score** and the minimum to be eligible to receive funding is **100**
 
 **e)** The project can advertise their proposal on social networks and in dedicated [❤ Community / #𝐄┃e-lab](https://discord.gg/pnwm6equkt) channel on Discord to get community votes
 
-**e)** Community voting will happen monthly between 15th and 22nd, giving community 7 days to support their favorite project.
+**e)** Community voting will happen monthly between 1st and 8th, giving community 7 days to support their favorite project.
