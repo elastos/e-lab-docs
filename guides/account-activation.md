@@ -25,7 +25,7 @@ To activate your account via [KYC-me.io](https://kyc-me.io), please continue her
 4. Select relevant credentials in EE and confirm with password
 5. Your account is activated and you will be able to [vote-on-proposal.md](../vote-on-proposal.md "mention") and [create-new-proposal.md](../create-new-proposal.md "mention")
 
-**Please note**: KYC service itself is done by 3rd party service [https://passbase.com/](https://passbase.com) and **Passport is required**
+_<mark style="color:red;">**Please note**</mark><mark style="color:red;">: KYC service itself is done by 3rd party service</mark>_ [_<mark style="color:red;">https://passbase.com/</mark>_](https://passbase.com) _<mark style="color:red;">and</mark> <mark style="color:red;"></mark><mark style="color:red;">**Passport is required**</mark>_
 
 ![Flow - Account activation](<../.gitbook/assets/Flow - Account activation.png>)
 {% endtab %}
@@ -39,6 +39,6 @@ To activate your account via **Discord ID**, please continue here:
 3. We will get in touch with you and manually activate your account
 4. You will be able to [vote-on-proposal.md](../vote-on-proposal.md "mention") and [create-new-proposal.md](../create-new-proposal.md "mention")
 
-**Please note:** To speed up activation, please contact us via [about.md](../introduction/about.md "mention")
+_<mark style="color:red;">**Please note:**</mark> <mark style="color:red;"></mark><mark style="color:red;">To speed up activation, please contact us via</mark>_ [about.md](../introduction/about.md "mention")_<mark style="color:red;"></mark>_
 {% endtab %}
 {% endtabs %}
