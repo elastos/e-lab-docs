@@ -10,10 +10,10 @@
 * Mainchain
 * Elastos Smart Chain
 
-**c)** There is a maximum of 10,000 ELA allowed per proposal to be granted.
+**c)** There is a maximum of **10,000 ELA** allowed per proposal to be granted.
 
-**d)** There is a maximum 1 winners per month based on **Voting Score** and the minimum to be eligible to receive funding is **100**
+**d)** There is a maximum 1 winner per month based on **Voting Score** and the minimum score to be eligible be funded is **100** (for example 100 members Upvote and nobody Downvote)
 
-**e)** The project can advertise their proposal on social networks and in dedicated [❤ Community / #𝐄┃e-lab](https://discord.gg/pnwm6equkt) channel on Discord to get community votes
+**e)** The project can advertise their proposal on social networks and in dedicated [❤ Community / #🥼┃e-lab](https://discord.gg/pnwm6equkt) channel on Discord to get community votes
 
 **e)** Community voting will happen monthly between 1st and 8th, giving community 7 days to support their favorite project.
