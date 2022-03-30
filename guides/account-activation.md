@@ -36,8 +36,9 @@ To activate your account via **Discord ID**, please continue here:
 1. Retrieve your Discord ID via [this guide](https://www.remote.tools/remote-work/how-to-find-discord-id#tl;dr)
 2. Enter your Discord ID in the text box and click **Provide my discord ID**:\
    ![](../.gitbook/assets/ActivationDiscord.png)
-3. We will get in touch with you and manually activate your account
-4. You will be able to [vote-on-proposal.md](../vote-on-proposal.md "mention") and [create-new-proposal.md](../create-new-proposal.md "mention")
+3. Join [Elastos Official Discord server](https://discord.gg/elastos)
+4. We will get in touch with you and manually activate your account
+5. You will be able to [vote-on-proposal.md](../vote-on-proposal.md "mention") and [create-new-proposal.md](../create-new-proposal.md "mention")
 
 _<mark style="color:red;">**Please note:**</mark> <mark style="color:red;"></mark><mark style="color:red;">To speed up activation, please contact us via</mark>_ [about.md](../introduction/about.md "mention")_<mark style="color:red;"></mark>_
 {% endtab %}
