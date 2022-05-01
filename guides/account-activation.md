@@ -40,6 +40,6 @@ To activate your account via **Discord ID**, please continue here:
 4. We will get in touch with you on Discord and manually activate your account
 5. You will be able to [vote-on-proposal.md](../vote-on-proposal.md "mention") and [create-new-proposal.md](../create-new-proposal.md "mention")
 
-_<mark style="color:red;">**Please note:**</mark> <mark style="color:red;"></mark><mark style="color:red;">To speed up activation, please contact us via</mark>_ [about.md](../introduction/about.md "mention")_<mark style="color:red;"></mark>_
+_<mark style="color:red;">**Please note:**</mark> <mark style="color:red;"></mark><mark style="color:red;">For Discord activation, you</mark> <mark style="color:red;"></mark><mark style="color:red;">**must**</mark> <mark style="color:red;"></mark><mark style="color:red;">join</mark>_ [_<mark style="color:red;">**Elastos Official Discord**</mark>_](https://discord.gg/elastos) _<mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">server and to speed up activation, please contact us via</mark>_ [about.md](../introduction/about.md "mention")_<mark style="color:red;"></mark>_
 {% endtab %}
 {% endtabs %}
