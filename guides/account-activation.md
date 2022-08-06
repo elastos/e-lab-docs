@@ -37,7 +37,8 @@ To activate your account via **Discord ID**, please continue here:
 2. Enter your Discord ID in the text box and click **Provide my discord ID**:\
    ![](../.gitbook/assets/ActivationDiscord.png)
 3. Join [Elastos Official Discord server](https://discord.gg/elastos)
-4. DM **@MButcho#1612** on Discord who will manually activate your account
+4. DM **@MButcho#1612** your **Elastos DID** from Essentials on Discord who will manually activate your account\
+   ![](../.gitbook/assets/image.png)
 5. You will be able to [vote-on-proposal.md](../vote-on-proposal.md "mention") and [create-new-proposal.md](../create-new-proposal.md "mention")
 
 _<mark style="color:red;">**Please note:**</mark> <mark style="color:red;"></mark><mark style="color:red;">For Discord activation, you</mark> <mark style="color:red;"></mark><mark style="color:red;">**must**</mark> <mark style="color:red;"></mark><mark style="color:red;">join</mark>_ [_<mark style="color:red;">**Elastos Official Discord**</mark>_](https://discord.gg/elastos) _<mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">server</mark>_
